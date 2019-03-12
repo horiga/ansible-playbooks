@@ -1,0 +1,3 @@
+phase: vagrant
+environment: vagrant
+normal_user: vagrant
